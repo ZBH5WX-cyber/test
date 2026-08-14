@@ -1,1 +1,8 @@
-# test
+# Motion Recognition Demo
+## Hardware Platform
+--STM32F411RE NUCLEO-F411RE
+## DEVELOP TOOL
+--VSCODE 
+--STM32CUBEMX (MAKE FILE)
+--EDGE IMPLUSE
+
